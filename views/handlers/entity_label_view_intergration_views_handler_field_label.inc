@@ -2,7 +2,7 @@
 
 /**
  * @file
- * Contains the entity_views_handler_field_label class.
+ * Contains the entity_label_view_intergration_views_handler_field_label class.
  */
 
 /**
