@@ -1,0 +1,6 @@
+name = Entity label view intergration
+package = Point Blank
+description = Exposes an Entity label for use as a Views field
+core = 7.x
+
+files[] = views/handlers/entity_label_view_intergration_views_handler_field_label.inc
